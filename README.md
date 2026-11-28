@@ -18,6 +18,6 @@ All future and additional entries in this series will be published under the [`k
 
 - [The Ockfeld Method](https://ockfeld.blogspot.com/)
 
-- [ömma stjärna](https://omma-stjarna.blogspot.com/)
+- [ömma stjärna, min älskade](https://omma-stjarna.blogspot.com/)
 
 - [The Ockfeld Report](https://ockfeld.github.io/THE-OCKFELD-REPORT/)
